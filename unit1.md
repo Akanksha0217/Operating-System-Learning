@@ -34,5 +34,3 @@
 6. **Security System** – Protection of data and resources.  
 
 ---
-
-✅ These notes are short, clear, and ready to use inside your repo.
