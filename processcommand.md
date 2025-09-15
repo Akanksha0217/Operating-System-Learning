@@ -24,8 +24,7 @@
   ```c
   pid_t wait(int *status);
   ```
-
-##4. sleep
+## 4. sleep
 - Suspends execution of a process for a given time (in seconds).
 
 ## ✅ Quick Summary
