@@ -1,5 +1,5 @@
 
-# 🖥️ Operating System Learning & Experiments  
+# 🖥️ Operating System Learning & Experiments   
 
 This repository is my personal journey of learning **Operating System (OS)** concepts, commands, and experiments.  
 I created this repo to document my hands-on practice with OS commands, experiments, and mistakes I learned from.  
